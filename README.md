@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://chrisroland.github.io/QR-Code/)
+- Solution URL: [Solution](https://your-solution-url.com)
+- Live Site URL: [Live](https://chrisroland.github.io/QR-Code/)
 
 ## My process
 
@@ -33,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Useful resources
 
-- [W3schools](https://www.w3Schools.com) - Been a while I wrote normal css so I use this when I need to remeber style or anything HTML & CSS at all.
+- [W3schools](https://www.w3Schools.com) - Been a while I wrote normal css so I use this when I need to remember styles or anything HTML & CSS at all.
 
 ## Author
 
